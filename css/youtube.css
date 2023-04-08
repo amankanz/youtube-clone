@@ -3,5 +3,6 @@
   display: block;
 }
 .video-title {
-  width: 300px;
+  background: lightgreen;
+  width: 100%;
 }
